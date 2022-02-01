@@ -19,6 +19,10 @@ npm run build
 ```
 npm run test:unit
 ```
+### Demo
+```
+See [Configuration Reference](https://khron.netlify.app/).
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
